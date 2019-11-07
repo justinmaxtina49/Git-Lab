@@ -1,7 +1,5 @@
 #master
 
-#示範Git用的程式碼！
-
 #import python的unittest
 import unittest
 import Calculator as calculator
